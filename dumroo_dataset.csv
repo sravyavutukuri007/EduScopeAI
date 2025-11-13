@@ -1,0 +1,100 @@
+student_name,grade,class,subject,homework_submitted,quiz_date,quiz_score
+Rohan Mehta,7,A,Math,Submitted,03-11-2025,78
+Kavya Sharma,7,B,Science,Not Submitted,03-11-2025,65
+Aditya Verma,7,C,Computer Science,Submitted,03-11-2025,82
+Aarav Singh,8,A,Math,Submitted,03-11-2025,88
+Neha Kapoor,8,A,Science,Submitted,10-11-2025,89
+Priya Agarwal,8,B,Science,Not Submitted,03-11-2025,71
+Hriday Soni,8,B,Math,Submitted,10-11-2025,84
+Rishi Nair,8,C,Computer Science,Submitted,03-11-2025,93
+Anusha Rao,8,C,Computer Science,Not Submitted,10-11-2025,54
+Ishaan Joshi,9,B,Science,Submitted,03-11-2025,76
+Meera Patel,9,C,Math,Not Submitted,03-11-2025,62
+Tanvi Kulkarni,9,A,Computer Science,Submitted,10-11-2025,85
+Sravya Rao,9,A,Computer Science,Submitted,03-11-2025,90
+Pujith Varma,7,B,Math,Not Submitted,10-11-2025,75
+Yamini Kanya,8,C,Math,Submitted,03-11-2025,80
+Prasad Rao,9,A,Science,Not Submitted,03-11-2025,86
+Satya Sai,7,B,Science,Submitted,10-11-2025,78
+Srinivas Rao,8,C,Math,Submitted,10-11-2025,84
+Varsha Sanala,9,A,Computer Science,Not Submitted,03-11-2025,76
+Lakshmi Sri,9,A,Computer Science,Not Submitted,03-11-2025,58
+Ganesh B,9,B,Science,Submitted,03-11-2025,69
+Bhanu Karthika,7,B,Math,Submitted,10-11-2025,79
+Kotesh Rao,9,C,Math,Not Submitted,10-11-2025,80
+Kumari,8,C,Computer Science,Submitted,10-11-2025,47
+Hari,7,A,Math,Submitted,03-11-2025,65
+Venkat,8,B,Computer Science,Not Submitted,03-11-2025,58
+Sai,9,C,Science,Not Submitted,10-11-2025,98
+Harsha,8,A,Computer Science,Submitted,10-11-2025,95
+Vardhan,8,A,Science,Submitted,03-11-2025,68
+Nikith,9,B,Math,Not Submitted,10-11-2025,59
+Lokesh,9,B,Math,Not Submitted,03-11-2025,75
+Nani,7,C,Science,Submitted,10-11-2025,78
+Srujana,8,C,Computer Science,Submitted,03-11-2025,86
+Nandini K,8,A,Computer Science,Submitted,10-11-2025,85
+Nandini M,9,B,Math,Submitted,03-11-2025,89
+Kumar,7,C,Math,Submitted,10-11-2025,85
+Sai Kumar,7,C,Math,Submitted,03-11-2025,68
+Ajith,7,B,Science,Submitted,10-11-2025,69
+Vanaja,8,A,Science,Submitted,03-11-2025,89
+Sreeja,7,B,Computer Science,Submitted,10-11-2025,87
+Vindya,9,C,Computer Science,Submitted,03-11-2025,78
+Bhargav,8,A,Computer Science,Submitted,10-11-2025,79
+Praisy,8,C,Math,Submitted,03-11-2025,86
+Navya,9,A,Math,Submitted,10-11-2025,69
+Kavya   ,9,B,Math,Submitted,03-11-2025,68
+Bhavya,8,B,Math,Submitted,10-11-2025,67
+Teju,8,A,Science,Not Submitted,03-11-2025,59
+Sangeetha,7,C,Science,Not Submitted,10-11-2025,57
+Vyshnavi,8,A,Science,Not Submitted,03-11-2025,85
+Mohana,7,B,Computer Science,Not Submitted,10-11-2025,84
+Priya   Rao,9,C,Computer Science,Submitted,03-11-2025,82
+Yoshi,8,C,Computer Science,Submitted,10-11-2025,83
+kalyani,9,A,Science,Submitted,03-11-2025,63
+Bhargavi,7,B,Science,Submitted,10-11-2025,92
+vyshu,8,A,Science,Not Submitted,03-11-2025,95
+Adi ,9,B,Computer Science,Submitted,10-11-2025,78
+Meghana,8,B,Computer Science,Not Submitted,03-11-2025,76
+Chandana,8,C,Computer Science,Submitted,10-11-2025,75
+Lakshmi   ,7,C,Science,Submitted,03-11-2025,85
+Shabarish,7,A,Science,Not Submitted,10-11-2025,84
+Madhavi,9,A,Math,Submitted,03-11-2025,86
+Yamuna,9,B,Math,Submitted,10-11-2025,82
+Sita,8,B,Math,Submitted,03-11-2025,80
+Vibha,7,C,Science,Not Submitted,10-11-2025,90
+Vishnu,9,C,Science,Submitted,03-11-2025,70
+Vinay,8,A,Science,Submitted,10-11-2025,68
+Vinayak,7,A,Science,Submitted,03-11-2025,65
+Hanu,9,B,Computer Science,Submitted,10-11-2025,74
+Pavan,8,B,Computer Science,Not Submitted,03-11-2025,75
+Shanmukh,7,C,Math,Not Submitted,10-11-2025,85
+Govind,9,C,Math,Not Submitted,03-11-2025,84
+Madhav ,7,A,Math,Not Submitted,10-11-2025,81
+Pardh,8,A,Science,Not Submitted,03-11-2025,72
+Vrushali,9,B,Science,Submitted,10-11-2025,53
+Karan,8,B,Science,Submitted,03-11-2025,56
+Krishna,7,C,Math,Submitted,10-11-2025,58
+Sidhi,7,C,Math,Submitted,10-11-2025,95
+Valli,9,A,Computer Science,Submitted,03-11-2025,96
+Deva sena,8,A,Computer Science,Submitted,03-11-2025,92
+Deva   ,8,A,Computer Science,Submitted,10-11-2025,94
+Dev,9,A,Computer Science,Not Submitted,03-11-2025,83
+yash,9,C,Science,Not Submitted,10-11-2025,80
+Selena,7,C,Science,Not Submitted,03-11-2025,73
+Lara,8,B,Science,Submitted,10-11-2025,72
+Suga,7,B,Math,Submitted,03-11-2025,70
+Raj,8,B,Math,Submitted,10-11-2025,94
+Danelia,7,B,Math,Not Submitted,03-11-2025,86
+Sophia,8,B,Science,Not Submitted,10-11-2025,85
+Manon,7,C,Science,Submitted,03-11-2025,84
+Megan,9,C,Science,Submitted,10-11-2025,82
+Lisa,9,C,Computer Science,Submitted,03-11-2025,84
+Rose,8,A,Computer Science,Submitted,10-11-2025,75
+Jin,7,A,Math,Submitted,03-11-2025,72
+Dhanush,8,A,Math,Submitted,03-11-2025,70
+Prateek,9,A,Math,Submitted,10-11-2025,60
+Vinod,8,A,Science,Submitted,03-11-2025,84
+Gopal,8,B,Science,Submitted,10-11-2025,82
+Sandeep,9,B,Computer Science,Submitted,03-11-2025,86
+Sri ,9,B,Computer Science,Submitted,03-11-2025,95
