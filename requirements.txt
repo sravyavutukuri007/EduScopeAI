@@ -1,9 +1,2 @@
 pandas
 streamlit
-langchain
-langchain-core
-langchain-community
-langchain-experimental
-faiss-cpu
-tiktoken
-sentence-transformers
